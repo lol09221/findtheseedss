@@ -26,7 +26,7 @@ html {
 
 body {
     font: inherit;
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.2)), url('https://cdn.discordapp.com/attachments/1002393755380359241/1013928905599635576/overlay.gif') center center/cover;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.2)), url('https://cdn.akamai.steamstatic.com/steam/apps/1820000/ss_25acd19abba23a9fd19f4fa0ecd790e1ba4aa0cb.600x338.jpg?t=1659640005') center center/cover;
     background-attachment: fixed
 }
 
