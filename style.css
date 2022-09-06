@@ -23,7 +23,7 @@ html {
 body {
   font: inherit;
   background: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0)),
-    url("../cdn.discordapp.com/attachments/941706448491139162/942097805453963374/Homura-Hime_2022_01-23-22_006.jpg") center center/cover;
+    url("https://media.discordapp.net/attachments/1003494351911002185/1016789202710569081/unknown.png?width=960&height=540") center center/cover;
   background-attachment: fixed;
 }
 .wrapper {
